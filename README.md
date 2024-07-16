@@ -1,6 +1,6 @@
 # About
 
-This repository contains the completed GameHub project as of the end of part 2 of my React course.
+This repository contains the completed GameHub project as a simple replica of rawg.io gaming website.
 
 ## Getting Started
 
